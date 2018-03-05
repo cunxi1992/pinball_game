@@ -3,11 +3,6 @@ import tkinter as tkinter
 import tkinter.messagebox as mb
 import random,time
 
-'''
-欢迎关注 微信公众号菜鸟学Python
-更多好玩有趣的实战项目
-'''
-
 class Ball():
     '''
     创建Ball类，初始化对象，即创建对象设置属性,
